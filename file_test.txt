@@ -1,2 +1,3 @@
 Le premier test (push)
 Le deuxième test (pull)
+Le 3ème test (pull >> push)
