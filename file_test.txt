@@ -4,3 +4,4 @@ Le 3ème test (pull >> push)
 ***********************************
 update for branch (1)
 add modif not finished yet (exmaple git stash)
+add modif not finished yet (2)
